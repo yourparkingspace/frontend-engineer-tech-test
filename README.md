@@ -6,8 +6,6 @@ Technical assessment for the YourParkingSpace Frontend Engineer Role.
 
 At YourParkingSpace, our frontend engineers are expected to be able to confidently complete all aspects of frontend development. From building and styling UI components through to interacting with our backend APIs.
 
-You can find out more about our role here https://jobs.gohire.io/yourparkingspace-gnf5tges/senior-frontend-engineer-55504/
-
 ## Goal
 
 We would like you to develop a simple Vue app using a mocked API. The goal is to generate a blog using the data received from the API, which allows the user to click through to view each individual article, as well as viewing a preview of all the articles. We'd also like you to add search functionality as well, so that we can see live binding with the API calls.
@@ -23,7 +21,9 @@ We've deliberately left the requirements as simple as possible, we want you to d
 - Storybook
 - Jest / Vue Test Utils
 
-We haven't provided designs for this assessment but we'd love for you to apply your own creative flair to really make your submission stand out from the crowd.
+## Assets
+The visual assets can be found here:
+[https://drive.google.com/file/d/1anu3ZMabeqQ80RAkZgUrcSWvda96fBo7/view?usp=sharing](https://drive.google.com/file/d/1anu3ZMabeqQ80RAkZgUrcSWvda96fBo7/view?usp=sharing)
 
 ## API
 
@@ -66,6 +66,6 @@ And example of an article data model can be seen here;
 
 ## Submission
 
-Once you have completed the technical test please add `craigsansam` as a user to your Github/Bitbucket repository so that we can see your code. If you are coming to us via a recruiter, please let them know you have submitted the test, or if you are a direct applicant please let the person you are speaking to know as well, that way we'll be on the look out for your submission.
+Once you have completed the technical test please add `jakezneal` as a user to your Github/Bitbucket repository so that we can see your code. If you are coming to us via a recruiter, please let them know you have submitted the test, or if you are a direct applicant please let the person you are speaking to know as well, that way we'll be on the look out for your submission.
 
 ### We can't wait to see what you can do!
