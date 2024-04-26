@@ -17,7 +17,7 @@ We've deliberately left the requirements as simple as possible, we want you to d
 - Nuxt.js
 - VueJS
 - SCSS
-- Bootstrap
+- Bootstrap or Tailwind
 - Storybook
 - Jest / Vue Test Utils
 
@@ -69,6 +69,6 @@ And example of an article data model can be seen here;
 
 ## Submission
 
-Once you have completed the technical test please add `jakezneal` as a user to your Github/Bitbucket repository so that we can see your code. If you are coming to us via a recruiter, please let them know you have submitted the test, or if you are a direct applicant please let the person you are speaking to know as well, that way we'll be on the look out for your submission.
+Once you have completed the technical test, if you're not making it public then please add `kaimacmaster` as a user to your Github/Bitbucket repository so that we can see your code. If you are coming to us via a recruiter, please let them know you have submitted the test, or if you are a direct applicant please let the person you are speaking to know as well, that way we'll be on the look out for your submission.
 
 ### We can't wait to see what you can do!
