@@ -60,6 +60,6 @@ And example of an article data model can be seen here;
 
 ## Submission
 
-Once you have completed the technical test, if you're not making it public then please add `kaimacmaster` as a user to your Github/Bitbucket repository so that we can see your code. If you are coming to us via a recruiter, please let them know you have submitted the test, or if you are a direct applicant please let the person you are speaking to know as well, that way we'll be on the look out for your submission.
+Please push your code to github/netlify any opensource where we can review your code.
 
 ### We can't wait to see what you can do!
