@@ -17,8 +17,9 @@ We've deliberately left the requirements as simple as possible, we want you to d
 - Nuxt.js
 - VueJS
 - Typescript
+- Pinia
 - SCSS / Tailwind
-- Jest / Vue Test Utils
+- Vitest / Vue Test Utils
 
 ## Assets
 The visual assets can be found here:
