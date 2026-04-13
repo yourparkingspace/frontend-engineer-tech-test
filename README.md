@@ -16,9 +16,8 @@ We've deliberately left the requirements as simple as possible, we want you to d
 
 - Nuxt.js
 - VueJS
-- SCSS
-- Bootstrap or Tailwind
-- Storybook
+- Typescript
+- SCSS / Tailwind
 - Jest / Vue Test Utils
 
 ## Assets
