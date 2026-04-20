@@ -21,9 +21,9 @@ We've deliberately left the requirements as simple as possible, we want you to d
 - SCSS / Tailwind
 - Vitest / Vue Test Utils
 
-## Assets
-The visual assets can be found here:
-[https://drive.google.com/file/d/1anu3ZMabeqQ80RAkZgUrcSWvda96fBo7/view?usp=sharing](https://drive.google.com/file/d/1anu3ZMabeqQ80RAkZgUrcSWvda96fBo7/view?usp=sharing)
+## Design
+
+No designs are provided for this task. Please use your imagination and best judgement to create an intuitive and visually appealing interface.
 
 ## API
 
