@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: frontend-engineer-tech-test
+  annotations:
+    github.com/project-slug: yourparkingspace/frontend-engineer-tech-test
+spec:
+  type: service
+  lifecycle: production
+  owner: marketplace-frontend
